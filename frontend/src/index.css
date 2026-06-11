@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@layer base {
+:root {
+  --border:214 32% 91%;
+}
+}
